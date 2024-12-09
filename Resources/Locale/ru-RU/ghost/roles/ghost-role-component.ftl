@@ -127,7 +127,7 @@ ghost-role-information-skeleton-biker-name = Скелет-байкер
 ghost-role-information-skeleton-biker-description = Колесите на своём прекрасном байке.
 
 ghost-role-information-closet-skeleton-name = Скелет в шкафу
-ghost-role-information-closet-skeleton-description = Устроить хаос! Вы — первородная сила, не имеющая никакой преданности. Живите счастливо вместе с командой или ведите сладкую скелетную войну.
+ghost-role-information-closet-skeleton-description = Вы — первородная сила, не имеющая никакой преданности. Живите счастливо вместе с командой или ведите сладкую скелетную войну с помощью мелких противозаконных шалостей!
 
 ghost-role-information-onestar-mecha-name = мех Onestar
 ghost-role-information-onestar-mecha-description = Вы - экспериментальный мех, созданный неизвестно кем. Всё, что вы знаете, это что у вас есть оружие, а поблизости обнаружены движущиеся мясные мишени...
